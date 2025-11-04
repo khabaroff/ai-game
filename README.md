@@ -1,7 +1,7 @@
 # Ответы 
 
 ## Основы
-- Artificial Intellegence
+- Artificial Intelligence
 - Распознавание лиц
 - ЕВА
 - 1956
